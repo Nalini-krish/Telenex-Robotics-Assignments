@@ -1,0 +1,5 @@
+string status  # cleaning, charging, or idle
+float32 area   # area covered in m^2
+---
+string new_status  # clean or not_clean
+
