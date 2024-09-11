@@ -1,0 +1,7 @@
+string robot_id
+int32 crop_yield
+string status
+
+---
+string schedule
+
